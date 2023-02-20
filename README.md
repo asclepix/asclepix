@@ -2,7 +2,8 @@
 
 I'm working with:  
 [![](https://skillicons.dev/icons?i=c,cpp,swift,java,kotlin,linux,bash,qt,git,github,gitlab,androidstudio,md)](https://skillicons.dev)
-end sometimes with:  
+
+and sometimes with:  
 [![](https://skillicons.dev/icons?i=py,vim,jenkins,latex,mysql)](https://skillicons.dev)
 
 
