@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![](https://skillicons.dev/icons?i=c,cpp,swift,java,kotlin,linux,bash,py,qt,git,github,gitlab,androidstudio,md)](https://skillicons.dev)
+I'm working with:  
+[![](https://skillicons.dev/icons?i=c,cpp,swift,java,kotlin,linux,bash,qt,git,github,gitlab,androidstudio,md)](https://skillicons.dev)
+end sometimes with:  
+[![](https://skillicons.dev/icons?i=py,vim,jenkins,latex,mysql)](https://skillicons.dev)
+
 
 <!--
 **asclepix/asclepix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
