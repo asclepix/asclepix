@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://skillicons.dev/icons?i=C,C++,swift,java,kotlin)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,swift,java,kotlin,linux,bash,py,qt,git,github,gitlab,androidstudio,md)](https://skillicons.dev)
 
 <!--
 **asclepix/asclepix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
