@@ -4,7 +4,7 @@ I'm working with:
 [![](https://skillicons.dev/icons?i=c,cpp,swift,java,kotlin,linux,bash,qt,git,github,gitlab,androidstudio,md&theme=light)](https://skillicons.dev)
 
 and sometimes with:  
-[![](https://skillicons.dev/icons?i=py,vim,jenkins,latex,mysql,cmake&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,vim,jenkins,latex,mysql,cmake,idea,ubuntu&theme=light)](https://skillicons.dev)
 
 
 <!--
